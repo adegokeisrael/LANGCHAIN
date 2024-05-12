@@ -1,4 +1,4 @@
-# langchain-examples
+# langchain-PROJECTS
 <h4 align="center">
   <a href="https://github.com/alphasecio/langchain-examples/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Released under the MIT license." />
